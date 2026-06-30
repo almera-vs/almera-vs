@@ -65,7 +65,7 @@ zapytań, po budowanie powtarzalnych procesów przetwarzania.
 |---|---|
 | **Bazy danych** | projektowanie schematów, modelowanie relacyjne, normalizacja, indeksowanie, optymalizacja zapytań |
 | **SQL** | złożone `JOIN`-y, agregacje, podzapytania, widoki, podstawy procedur składowanych |
-| **NoSQL** | budowa systemów rozproszonych, konfiguracja węzłów i klastrów, optymalizacja zapytań, Big Data
+| **NoSQL** | budowa systemów rozproszonych, konfiguracja węzłów i klastrów, głównie z Big Data (5V)
 | **Administracja** | zarządzanie użytkownikami i uprawnieniami, kopie zapasowe i odtwarzanie, monitorowanie |
 | **Python** | skrypty automatyzujące, przetwarzanie danych, łączenie z bazami |
 | **Przetwarzanie danych** | czyszczenie i transformacja danych, proste pipeline'y ETL, przygotowanie danych do analizy |
